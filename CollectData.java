@@ -8,7 +8,7 @@ import java.util.*;
  *Application to sort an array of random numbers. 
  *
  *Program 1 
- *@author Erika Yardumian - CPSC - 3273
+ *@author Erika Yardumian 
  *@version 3/16/19
  */
 
